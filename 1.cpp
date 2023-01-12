@@ -1,4 +1,4 @@
-1.Sort an array with 0's,1's and 2's
+# 1.Sort an array with 0's,1's and 2's
 
 #NAIVE SOLUTION
 
